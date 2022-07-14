@@ -1,4 +1,5 @@
 #include "main.h"
+#define putchar(c) putc(c, stdout)
 
 /**
  * print_number - prints an integer.
