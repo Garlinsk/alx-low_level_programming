@@ -1,6 +1,6 @@
 /*
  * File: 100-elf_header.c
- * Auth: ZebbylionNjau
+ * Auth: Franklin Kuloba
  */
 
 #include <elf.h>
